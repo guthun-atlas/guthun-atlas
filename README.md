@@ -1,5 +1,1 @@
-## Hi there 👋
-## 🚀 Tech Stack & Arsenal
-- Python
-- JavaScript
-- TensorFlow
+<img src="banner.svg">
