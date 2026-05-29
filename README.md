@@ -21,5 +21,14 @@ UX/UI Designer
 
 </tr>
 </table>
+<br><br>
+<p align="center">I am driven by a mission to develop products that break down social and economic barriers to communication.</p><br><br>
+<hr>
 
-<h2 align="center">I am driven by a mission to develop products that break down social and economic barriers to communication.</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guthun-atlas&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guthun-atlas&theme=tokyonight"/>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guthun-atlas&theme=tokyonight"/>
+</p>
