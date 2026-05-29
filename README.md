@@ -21,6 +21,5 @@ UX/UI Designer
 
 </tr>
 </table>
-<img src="banner.svg">
-<img src="divider.svg">
+
 <h2 align="center">I am driven by a mission to develop products that break down social and economic barriers to communication.</h2>
