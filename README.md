@@ -11,7 +11,7 @@
        phosphor #74e6c6 · bright #d8fff3 · dim #3f7b6f · amber #e6a543 · bg #0a1311
 ======================================================================== -->
 
-<img src="assets/banner.svg" alt="Daniil — Agent Dossier" width="100%" />
+<img src="banner.svg" alt="Daniil — Agent Dossier" width="100%" />
 
 <br/>
 
