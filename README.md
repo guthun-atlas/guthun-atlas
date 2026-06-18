@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Daniil — Agent Dossier" width="100%" />
+<img src="assets/banner.svg" alt="Daniil — Agent Dossier" width="100%" />
 
 <br/>
 
