@@ -1,34 +1,67 @@
+[README.md](https://github.com/user-attachments/files/29085831/README.md)
+<!-- ========================================================================
+     DANIIL — GitHub profile README  ·  "Special Agent Dossier" theme
+     HOW TO USE
+     1. Create a repo named EXACTLY your username (e.g. github.com/daniil/daniil)
+     2. Put this file in it as  README.md
+     3. Put banner.svg at  assets/banner.svg  (or change the path below)
+     4. Replace every  YOUR-USERNAME  with your real GitHub handle
+     Note: GitHub strips <style>/JS/fonts from READMEs — the look comes from
+     the animated SVG banner + image widgets themed to the palette below.
+       phosphor #74e6c6 · bright #d8fff3 · dim #3f7b6f · amber #e6a543 · bg #0a1311
+======================================================================== -->
+
+<img src="assets/banner.svg" alt="Daniil — Agent Dossier" width="100%" />
+
+<br/>
+
+### `/ DOSSIER`
+
+<!-- Animated typewriter line — matches the field-notes typing in the prototype -->
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=900&color=74E6C6&background=0A131100&center=false&vCenter=true&width=820&lines=PERSONNEL+FILE+%E2%80%94+agent%3A+Daniil;UX%2FUI+student+exploring+design+systems%2C+frontend%2C+interfaces.;I+document+what+I+build%2C+break+things+on+purpose%2C+reassemble+cleaner." alt="typing" />
+</a>
+
+<br/>
+
+### `/ FIELD KIT`  ·  standard issue
+
+![HTML](https://img.shields.io/badge/HTML-0A1311?style=for-the-badge&logo=html5&logoColor=74E6C6&labelColor=0A1311)
+![CSS](https://img.shields.io/badge/CSS-0A1311?style=for-the-badge&logo=css3&logoColor=74E6C6&labelColor=0A1311)
+![Framer](https://img.shields.io/badge/Framer-0A1311?style=for-the-badge&logo=framer&logoColor=74E6C6&labelColor=0A1311)
+![Figma](https://img.shields.io/badge/Figma-0A1311?style=for-the-badge&logo=figma&logoColor=74E6C6&labelColor=0A1311)
+
+<br/>
+
+### `/ DECODE`  ·  evidence breakdown
+
+<!-- Top languages card, themed -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthun-atlas&layout=compact&langs_count=8&hide_border=true&bg_color=0A1311&title_color=74E6C6&text_color=9FE9D6&icon_color=E6A543" alt="languages" width="48%" />
+
+<br/>
+<br/>
+
+### `/ SURVEILLANCE`  ·  live GitHub relay
+
 <table>
 <tr>
+<td width="50%">
 
-<td width="100%">
-
-# Gut-Hun
-
-UX/UI Designer
-
-- 🌌 Interfaces
-- ⚡ Coding
-- 🎃 Collector as a hobby
+<img src="https://github-readme-stats.vercel.app/api?username=guthun-atlas&show_icons=true&hide_border=true&bg_color=0A1311&title_color=74E6C6&text_color=9FE9D6&icon_color=E6A543&ring_color=74E6C6" alt="stats" />
 
 </td>
+<td width="50%">
 
-<td width="35%">
-
-<img src="your-image.png" width="250">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guthun-atlas&hide_border=true&background=0A1311&stroke=1E3B35&ring=74E6C6&fire=E6A543&currStreakLabel=74E6C6&sideLabels=9FE9D6&dates=3F7B6F&currStreakNum=D8FFF3&sideNums=D8FFF3&dayLabels=3F7B6F" alt="streak" />
 
 </td>
-
 </tr>
 </table>
-<br><br>
-<p align="center">I am driven by a mission to develop products that break down social and economic barriers to communication.</p><br><br>
-<hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guthun-atlas&theme=tokyonight"/>
+<!-- Contribution activity graph — the "intercept feed" line trace -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guthun-atlas&bg_color=0A1311&color=74E6C6&line=74E6C6&point=E6A543&area_color=74E6C6&area=true&hide_border=true&custom_title=INTERCEPT%20FEED%20%2F%2F%20contribution%20relay" alt="activity" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guthun-atlas&theme=tokyonight"/>
+<br/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guthun-atlas&theme=tokyonight"/>
-</p>
+<!-- footer line -->
+<sub>`DANIIL / GITHUB / DOSSIER` · clearance PUBLIC · file No. DNL-2024</sub>
