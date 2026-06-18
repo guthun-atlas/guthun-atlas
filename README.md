@@ -1,16 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29085831/README.md)
-<!-- ========================================================================
-     DANIIL — GitHub profile README  ·  "Special Agent Dossier" theme
-     HOW TO USE
-     1. Create a repo named EXACTLY your username (e.g. github.com/daniil/daniil)
-     2. Put this file in it as  README.md
-     3. Put banner.svg at  assets/banner.svg  (or change the path below)
-     4. Replace every  YOUR-USERNAME  with your real GitHub handle
-     Note: GitHub strips <style>/JS/fonts from READMEs — the look comes from
-     the animated SVG banner + image widgets themed to the palette below.
-       phosphor #74e6c6 · bright #d8fff3 · dim #3f7b6f · amber #e6a543 · bg #0a1311
-======================================================================== -->
-
 <img src="banner.svg" alt="Daniil — Agent Dossier" width="100%" />
 
 <br/>
